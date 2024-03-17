@@ -1,3 +1,4 @@
+![logo]([https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://github.com/fahima22/fahima22/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Fahema Akter</h1>
 <h3 align="center">A passionate data science and software quality assurance.</h3>
 
